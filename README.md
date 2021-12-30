@@ -1,9 +1,9 @@
 # Reconhecimento de Sinais Estáticos da ASL com o uso de CNN
 
 ## Sobre
- este repositório contém a implementação de CNNs para o reconhecimento de sinais estáticos da ASl.
+ Este repositório contém a implementação de CNNs para o reconhecimento de sinais estáticos da ASl.
 
-Projeto desenvolvido como Trabalho de Conclusão de Curso.
+Projeto desenvolvido como Trabalho de Conclusão de Curso, na Universidade do Estado do Amazonas - UEA.
 
 Orientadora: [Profa. Dra. Elloá B. Guedes](https://github.com/elloa)
 
